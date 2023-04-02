@@ -1,0 +1,2 @@
+firebotpy==4.21
+TouchPortal-API==1.7.9
