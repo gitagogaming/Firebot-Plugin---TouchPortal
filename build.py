@@ -55,5 +55,11 @@ ADDITIONAL_PYINSTALLER_ARGS = [
     "--log-level=WARN"
 ]
 
+"""
+Any additional TPPSDK Arguments can be passed here
+"""
+ADDITIONAL_TPPSDK_ARGS = []
+# validateBuild()
+
 if __name__ == "__main__":
     tppbuild.runBuild()
