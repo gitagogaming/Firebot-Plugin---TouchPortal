@@ -59,6 +59,7 @@ ADDITIONAL_PYINSTALLER_ARGS = [
 Any additional TPPSDK Arguments can be passed here
 """
 ADDITINAL_TPPSDK_ARGS = []
+ADDITIONAL_TPPSDK_ARGS = []
 # validateBuild()
 
 if __name__ == "__main__":
